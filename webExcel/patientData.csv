@@ -1,0 +1,3 @@
+Date,Index,patientName,patientGender,patientBirth,patientAge,patientWeight,patientHeight,patientCreditId,patientAddressPlace,patientPhoneNum,patientEmergencyContactPhoneNum,patientIllness
+2022-01-26 12:27:52.935971,0,ktliu,male,2005/1/24,17,70,180,A123456780,台北市內湖區,912345678,923456789,急性腦殘
+2022-01-26 12:32:21.164987,1,ktliu,male,2005/1/24,17,70,180,A123456780,台北市內湖區,912345678,923456789,急性腦殘
